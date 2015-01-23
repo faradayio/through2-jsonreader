@@ -1,0 +1,30 @@
+{
+  "name": "through2-jsonreader",
+  "version": "0.0.1",
+  "description": "A simple transform stream that parses JSON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faradayio/through2-jsonreader.git"
+  },
+  "keywords": [
+    "json",
+    "line",
+    "parser",
+    "reader",
+    "jsonreader",
+    "stream",
+    "transform",
+    "through",
+    "through2"
+  ],
+  "author": "Tristan Davies <tristan@faraday.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faradayio/through2-jsonreader/issues"
+  },
+  "homepage": "https://github.com/faradayio/through2-jsonreader",
+  "dependencies": {
+    "through2": "^1.1.1"
+  }
+}
